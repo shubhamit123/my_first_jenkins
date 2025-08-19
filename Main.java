@@ -1,0 +1,14 @@
+
+
+public class helloWorld {
+	
+	public static void main(String atrgs[])
+	{
+		System.out.println("Hello world");
+		
+		
+		
+	}
+	
+
+}
